@@ -2,6 +2,7 @@
 # Check out the following link for more ASCII Spinners!
 *https://stackoverflow.com/questions/2685435/cooler-ascii-spinners*
 I've copy/pasted some spinners from that page to save ya some time:
+
 ← ↖ ↑ ↗ → ↘ ↓ ↙
 
 ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▁
